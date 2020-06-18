@@ -1,2 +1,3 @@
-# coz.tools
-Les divers outils
+# COZ.PluralsightTools
+
+Download, rename and concat rename all the video of Pluralsight
